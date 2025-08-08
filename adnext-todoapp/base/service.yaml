@@ -4,7 +4,7 @@ metadata:
   labels:
     app: todo-app
   name: todo-app-svc
-  namespace: adnext-ns
+  namespace: adoptnext-ns
 spec:
   ports:
   - port: 3000
